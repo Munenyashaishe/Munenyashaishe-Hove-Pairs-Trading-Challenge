@@ -1,6 +1,8 @@
 # Munenyashaishe-Hove-Pairs-Trading-Challenge
 Quantitative Finance / Machine Learning  / Data Science/ Skills Challenge "Employing Pairs Trading with the application of Machine Learning
 
+If notebook file does not render on github, please access it and render on this link https://nbviewer.org/github/Munenyashaishe/Munenyashaishe-Hove-Pairs-Trading-Challenge/blob/main/Final_Submission_Pairs_Selection_Framework.ipynb
+
 Your Mission:
 The following assignment is an opportunity for you to highlight your skillset and show us what you are made of! It tests your ability to implement research, and to do it in style!
 
